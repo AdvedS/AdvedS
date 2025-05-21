@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web Devlopment
 - 🌱 I’m currently learning ... C
 - 💞️ I’m looking to collaborate on ... Web Learninig
-- 📫 How to reach me ... Mail me on s620@svpvv.i
+- 📫 How to reach me ... Mail me on adveds70@gmail.com
 
 <!---
 AdvedS/AdvedS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
